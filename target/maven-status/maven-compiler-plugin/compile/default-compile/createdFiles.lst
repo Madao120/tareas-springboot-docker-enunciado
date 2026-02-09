@@ -1,0 +1,4 @@
+com/ejemplo/tareas/model/Tarea.class
+com/ejemplo/tareas/repository/TareaRepository.class
+com/ejemplo/tareas/controller/TareaController.class
+com/ejemplo/tareas/TareasApplication.class
